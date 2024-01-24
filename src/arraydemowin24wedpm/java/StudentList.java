@@ -5,7 +5,7 @@
 package arraydemowin24wedpm.java;
 
 /**
- *
+ *added comments
  * @author khush
  */
 public class StudentList {
